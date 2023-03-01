@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es2017"
+  },
+  "extends": "@tsconfig/node18/tsconfig.json",
+}
